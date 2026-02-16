@@ -1,0 +1,59 @@
+feature,dtype,missing_count,missing_pct,unique_values
+scell_downlink_rbs_mcs_mean,float64,175854,85.8067160464912,23720
+ping_ms,float64,57707,28.157722672756197,13681
+datarate,float64,15679,7.650457202525593,2114
+jitter,float64,15679,7.650457202525593,15389
+Pos in Ref Round,float64,14159,6.9087839486293685,2891
+PCell_Uplink_frequency,float64,12607,6.151496520966908,8
+PCell_Band_Indicator,float64,12607,6.151496520966908,5
+PCell_Downlink_frequency,float64,12607,6.151496520966908,8
+PCell_Cell_ID,float64,12607,6.151496520966908,243
+PCell_Uplink_bandwidth_MHz,object,12607,6.151496520966908,4
+PCell_Downlink_bandwidth_MHz,object,12607,6.151496520966908,4
+PCell_Cell_Identity,float64,12607,6.151496520966908,321
+PCell_TAC,float64,12607,6.151496520966908,14
+PCell_Uplink_Tx_Power_(dBm),float64,12210,5.957783177679539,159214
+PCell_Uplink_TB_Size,float64,12210,5.957783177679539,112139
+PCell_Uplink_Num_RBs,float64,12210,5.957783177679539,40620
+PCell_Downlink_Num_RBs,float64,10506,5.126328424627456,40200
+PCell_Downlink_TB_Size,float64,10506,5.126328424627456,85742
+PCell_Downlink_Average_MCS,float64,10506,5.126328424627456,30
+PCell_freq_MHz,float64,10031,4.894555532784885,6
+PCell_SNR_2,float64,10026,4.892115818133911,179157
+PCell_E-ARFCN,float64,10026,4.892115818133911,14
+PCell_RSRQ_max,float64,10026,4.892115818133911,38331
+PCell_SNR_1,float64,10026,4.892115818133911,176531
+PCell_RSSI_2,float64,10026,4.892115818133911,91157
+PCell_RSSI_1,float64,10026,4.892115818133911,80765
+PCell_RSSI_max,float64,10026,4.892115818133911,91157
+PCell_RSRQ_2,float64,10026,4.892115818133911,45016
+PCell_RSRQ_1,float64,10026,4.892115818133911,38957
+PCell_RSRP_max,float64,10026,4.892115818133911,83976
+PCell_RSRP_2,float64,10026,4.892115818133911,100618
+PCell_RSRP_1,float64,10026,4.892115818133911,83547
+Traffic Jam Factor,float64,2878,1.4042997531008774,5219
+Altitude,float64,91,0.04440280664773448,847
+scenario,object,0,0.0,4
+drive_mode,object,0,0.0,3
+target_datarate,int64,0,0.0,3
+direction,object,0,0.0,2
+measured_qos,object,0,0.0,2
+operator,int64,0,0.0,2
+PCell_DL_RBs_MCS_Low,float64,0,0.0,9366
+PCell_DL_RBs_MCS_Mid,float64,0,0.0,29271
+timestamp,"datetime64[us, Europe/Berlin]",0,0.0,60193
+device,object,0,0.0,4
+area,object,0,0.0,6
+measurement,int32,0,0.0,17
+Traffic Distance,float64,0,0.0,149645
+Traffic Street Name,object,0,0.0,64
+windSpeed,float64,0,0.0,98
+humidity,float64,0,0.0,20
+temperature,float64,0,0.0,206
+precipProbability,float64,0,0.0,28
+precipIntensity,float64,0,0.0,360
+COG,float64,0,0.0,3588
+speed_kmh,float64,0,0.0,523
+Longitude,float64,0,0.0,51140
+Latitude,float64,0,0.0,17484
+PCell_DL_RBs_MCS_High,float64,0,0.0,41485
