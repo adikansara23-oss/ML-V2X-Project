@@ -19,7 +19,7 @@ The main objectives of this project are:
 ### 
 
 #### Dataset
-This project uses the Berlin V2X dataset (cellular data), which contains spatial-temporal communication measurements collected in an urban environment and includes inherent missing data. Each feature of the dataset is described in the Feature Description(Feature Description.xlsx) file. Features are prioritized for data imputation and synthetic data generation based on their importance ranking and percentage of missing values, as detailed in the Feature Analysis(Feature Analysis.xlsx) file.
+This project uses the Berlin V2X dataset ([cellular data](https://github.com/adikansara23-oss/ML-V2X-Project/blob/82355affedeed0ff971406fedc9bded8c64a964a/Berlin%20V2X%20Implementation/cellular_dataframe.parquet)), which contains spatial-temporal communication measurements collected in an urban environment and includes inherent missing data. Each feature of the dataset is described in the [Feature Description](https://github.com/adikansara23-oss/ML-V2X-Project/blob/82355affedeed0ff971406fedc9bded8c64a964a/Feature%20Description.xlsx) file. Features are prioritized for data imputation and synthetic data generation based on their importance ranking and percentage of missing values, as detailed in the [Feature Analysis](https://github.com/adikansara23-oss/ML-V2X-Project/blob/82355affedeed0ff971406fedc9bded8c64a964a/Feature%20Analysis.xlsx) file.
 
 ### 
 
