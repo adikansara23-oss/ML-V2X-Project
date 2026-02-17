@@ -1,0 +1,12 @@
+Thesis Overview Document
+
+Date of Meeting	Goal of Meeting	Tasks Accomplished	Next Steps (to be discussed)
+12.02.2026	1. Discussion of selected Features
+2. Preprocessing on the selected
+   features	-Created High/Low priority Feature     
+List
+-Implementation of KNN imputation on the dataset	-Reduce number of features
+-Check for KNN imputation method
+-Setup GitHub for Thesis
+26.02.2026			
+			
