@@ -17,14 +17,13 @@ The main objectives of this project are:
    The [Berlin V2X implementation](https://github.com/adikansara23-oss/ML-V2X-Project/tree/main/Berlin%20V2X%20Implementation) demonstrates the complete data imputation pipeline, including preprocessing, feature engineering, and application of ML models for filling missing data.
    The [V2I implementation](https://github.com/adikansara23-oss/ML-V2X-Project/tree/main/V2I%20Implementation) applies forward fill, backward fill, and KNN imputation methods to a similar dataset for handling missing values.
 2. Synthetic Data Generation:
-
- 	Generate realistic, high-resolution data using deep learning models.
+   Generate realistic, high-resolution data using deep learning models.
 
 ### 
 
 #### Dataset
 
-This project uses the Berlin V2X dataset (\[cellular data](Berlin V2X Implementation/cellular\_dataframe.parquet)), which contains spatial-temporal communication measurements collected in an urban environment and includes inherent missing data. Each feature of the dataset is described in the \[Feature Description](Feature Description.xlsx) file. Features are prioritized for data imputation and synthetic data generation based on their importance ranking and percentage of missing values, as detailed in the \[Feature Analysis](Feature Analysis.xlsx) file.
+This project uses the Berlin V2X dataset (cellular data), which contains spatial-temporal communication measurements collected in an urban environment and includes inherent missing data. Each feature of the dataset is described in the Feature Description(Feature Description.xlsx) file. Features are prioritized for data imputation and synthetic data generation based on their importance ranking and percentage of missing values, as detailed in the Feature Analysis(Feature Analysis.xlsx) file.
 
 ### 
 
