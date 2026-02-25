@@ -1,15 +1,15 @@
 {
   "train": {
     "n_rows": 143459,
-    "n_cols": 69,
+    "n_cols": 59,
     "masking": "none",
     "file": "train_data_final.pkl"
   },
   "validation": {
     "n_rows": 30741,
-    "n_cols": 69,
-    "n_masked_cols": 48,
-    "n_artificially_masked": 218498,
+    "n_cols": 59,
+    "n_masked_cols": 45,
+    "n_artificially_masked": 205073,
     "mask_rate": "15%",
     "files": {
       "data": "val_data_masked.pkl",
@@ -19,9 +19,9 @@
   },
   "test": {
     "n_rows": 30742,
-    "n_cols": 69,
-    "n_masked_cols": 48,
-    "n_artificially_masked": 217249,
+    "n_cols": 59,
+    "n_masked_cols": 45,
+    "n_artificially_masked": 203823,
     "mask_rate": "15%",
     "files": {
       "data": "test_data_masked.pkl",
@@ -29,6 +29,6 @@
       "mask_indices": "test_mask_indices.pkl"
     }
   },
-  "created_date": "2026-02-16 14:17:26.284666",
+  "created_date": "2026-02-25 23:07:49.814473",
   "random_seed": 42
 }
