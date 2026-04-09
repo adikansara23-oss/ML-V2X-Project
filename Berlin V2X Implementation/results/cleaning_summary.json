@@ -1,37 +1,35 @@
 {
-  "timestamp": "2026-03-03T23:05:17.928098",
+  "timestamp": "2026-04-07T09:57:11.465543",
   "original_shape": [
     207434,
-    161
+    160
   ],
   "final_shape": [
     204942,
-    49
+    50
   ],
   "rows_removed": 2492,
-  "features_removed": 112,
+  "features_removed": 110,
   "removed_features": [
-    "area",
-    "SCell_Allowed_Access",
-    "scenario",
-    "SCell_Uplink_Num_RBs",
-    "PCell_Allowed_Access",
-    "SCell_MNC",
-    "SCell_MCC",
-    "PCell_MNC_Digit",
-    "PCell_MCC",
-    "ts_gps",
-    "dewPoint",
+    "SCell_Uplink_Tx_Power_(dBm)",
     "pressure",
     "cloudCover",
-    "PCell_MNC",
-    "SCell_MNC_Digit",
-    "SCell_Uplink_Tx_Power_(dBm)",
-    "SCell_Uplink_TB_Size",
-    "visibility",
+    "ts_gps",
+    "SCell_Uplink_Num_RBs",
     "apparentTemperature",
-    "drive_mode",
-    "uvIndex"
+    "SCell_MNC_Digit",
+    "SCell_MCC",
+    "PCell_Allowed_Access",
+    "SCell_Uplink_TB_Size",
+    "PCell_MNC",
+    "PCell_MCC",
+    "PCell_MNC_Digit",
+    "SCell_MNC",
+    "SCell_Allowed_Access",
+    "visibility",
+    "dewPoint",
+    "uvIndex",
+    "drive_mode"
   ],
   "removal_breakdown": {
     "completely_missing": [
@@ -54,5 +52,5 @@
   },
   "bad_rows_removed": 2492,
   "retention_rate": 0.9879865402971547,
-  "final_missing_pct": 5.190497898957575
+  "final_missing_pct": 3.370553620048599
 }

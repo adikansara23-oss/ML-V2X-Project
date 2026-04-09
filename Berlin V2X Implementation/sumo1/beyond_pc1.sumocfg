@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="D:\Thesis V2X\Project on Git\Berlin V2X Implementation\sumo1\osm1.net.xml"/>
+        <route-files value="D:\Thesis V2X\Project on Git\Berlin V2X Implementation\sumo1\pc1.rou.xml"/>
+        <additional-files value="D:\Thesis V2X\Project on Git\Berlin V2X Implementation\sumo1\beyond_pc1.add.xml"/>
+    </input>
+</configuration>

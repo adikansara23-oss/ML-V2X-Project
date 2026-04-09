@@ -1,13 +1,13 @@
 {
   "train": {
     "n_rows": 143459,
-    "n_cols": 47,
+    "n_cols": 75,
     "masking": "none",
     "file": "train_data_final.pkl"
   },
   "validation": {
     "n_rows": 30741,
-    "n_cols": 47,
+    "n_cols": 75,
     "n_masked_cols": 37,
     "n_artificially_masked": 168723,
     "mask_rate": "15%",
@@ -19,7 +19,7 @@
   },
   "test": {
     "n_rows": 30742,
-    "n_cols": 47,
+    "n_cols": 75,
     "n_masked_cols": 37,
     "n_artificially_masked": 167377,
     "mask_rate": "15%",
@@ -29,6 +29,6 @@
       "mask_indices": "test_mask_indices.pkl"
     }
   },
-  "created_date": "2026-03-10 23:13:35.605753",
+  "created_date": "2026-04-07 17:11:19.991711",
   "random_seed": 42
 }
